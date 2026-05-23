@@ -463,3 +463,4 @@ Having issues? See the **[START_HERE.md](START_HERE.md)** troubleshooting sectio
 ---
 
 **Built with React 18 + Flask 3 + SQLite | 100 Tests Passing | April 2026**
+Core Contributor: @prrayag
