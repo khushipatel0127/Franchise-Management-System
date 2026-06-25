@@ -3,6 +3,10 @@
 **A production-ready franchise management platform built with React 18 + Vite + Tailwind CSS on the frontend and Flask + SQLAlchemy + SQLite on the backend. Supports four distinct user roles with end-to-end RBAC enforcement, royalty configuration, financial reporting with PDF export, expense tracking, product catalog management, inventory tracking with recipe-based stock deductions, branch lifecycle management, and database-backed file storage — all in a zero-database-server setup.**
 
 ---
+Group Project :-  Prayag Mistry 
+                  Khushi Patel 
+                  Parin Shah 
+                  Rishi Shah
 
 ## ⚡ Quick Start
 
